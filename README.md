@@ -9,6 +9,7 @@ Schools: A Distributed Behavioral Model” by Craig Reynolds. https://dl.acm.org
 Plugin has paramters for acc and ranges, with a hard coded bounding box for collision.
 
 ## Sphere Visualization:
+https://youtu.be/EnP6as_hejU
 <video controls width="640" height="360">
   <source src="./Flocking/houdini_clip_flocking.mp4.mp4" type="video/mp4">
   Your browser does not support the video tag.

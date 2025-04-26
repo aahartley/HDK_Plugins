@@ -15,8 +15,5 @@ https://youtu.be/EnP6as_hejU
   Your browser does not support the video tag.
 </video>
 
-## Mantra Render (WIP):
-<video controls width="640" height="360">
-  <source src="./Flocking/test.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+# WCSPH Plugin:
+Weakly-Incompressible SPH written in parallel, video on my site: https://aahartley.github.io/
